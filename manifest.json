@@ -1,0 +1,326 @@
+{
+  "author": "William Shakespeare",
+  "contenttype": "drama",
+  "edition": "beletrie",
+  "identifier": "shakespeare-sen-noci-svatojanske-8bc8a11",
+  "languagecode": "cs",
+  "modified": "2022-03-17T07:22:07.453Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Sen noci svatojánské",
+  "revision": "8bc8a11",
+  "generatedAt": {
+    "date": "Thu Mar 17 2022 07:37:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647502650809
+  },
+  "documents": [
+    {
+      "title": "Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "sen_noci_svatojanske_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "sen_noci_svatojanske_001.html",
+      "next": "sen_noci_svatojanske_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_003.html",
+      "words": 13,
+      "chars": 87,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "sen_noci_svatojanske_002.html",
+      "next": "sen_noci_svatojanske_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_004.html",
+      "words": 83,
+      "chars": 551,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "sen_noci_svatojanske_003.html",
+      "next": "sen_noci_svatojanske_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_005.html",
+      "words": 88,
+      "chars": 619,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 4,
+      "prev": "sen_noci_svatojanske_004.html",
+      "next": "sen_noci_svatojanske_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Osoby v mezihře",
+              "id": "osoby-vnbspmezihře",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PRVNÍ • Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_006.html",
+      "words": 2484,
+      "chars": 14817,
+      "ideas": 386,
+      "role": "chapter",
+      "order": 5,
+      "prev": "sen_noci_svatojanske_005.html",
+      "next": "sen_noci_svatojanske_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PRVNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ DRUHÉ • Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_007.html",
+      "words": 2973,
+      "chars": 16293,
+      "ideas": 503,
+      "role": "chapter",
+      "order": 6,
+      "prev": "sen_noci_svatojanske_006.html",
+      "next": "sen_noci_svatojanske_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ DRUHÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ TŘETÍ • Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_008.html",
+      "words": 4685,
+      "chars": 27060,
+      "ideas": 714,
+      "role": "chapter",
+      "order": 7,
+      "prev": "sen_noci_svatojanske_007.html",
+      "next": "sen_noci_svatojanske_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ TŘETÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ ČTVRTÉ • Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_009.html",
+      "words": 1913,
+      "chars": 11254,
+      "ideas": 259,
+      "role": "chapter",
+      "order": 8,
+      "prev": "sen_noci_svatojanske_008.html",
+      "next": "sen_noci_svatojanske_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ ČTVRTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. scéna",
+              "id": "2-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PÁTÉ • Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_010.html",
+      "words": 2745,
+      "chars": 16069,
+      "ideas": 492,
+      "role": "chapter",
+      "order": 9,
+      "prev": "sen_noci_svatojanske_009.html",
+      "next": "sen_noci_svatojanske_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PÁTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. scéna",
+              "id": "1-scéna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sen noci svatojánské",
+      "file": "sen_noci_svatojanske_011.html",
+      "words": 55,
+      "chars": 373,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "sen_noci_svatojanske_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 15047,
+      "chars": 87178,
+      "ideas": 2410
+    },
+    "chapters": {
+      "words": 15039,
+      "chars": 87123,
+      "ideas": 2405
+    }
+  }
+}
