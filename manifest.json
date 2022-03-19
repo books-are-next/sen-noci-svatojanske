@@ -2,38 +2,18 @@
   "author": "William Shakespeare",
   "contenttype": "drama",
   "edition": "beletrie",
-  "identifier": "shakespeare-sen-noci-svatojanske-8bc8a11",
+  "identifier": "shakespeare-sen-noci-svatojanske-14caea7",
   "languagecode": "cs",
   "modified": "2022-03-17T07:22:07.453Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Sen noci svatojánské",
-  "revision": "8bc8a11",
+  "revision": "14caea7",
   "generatedAt": {
-    "date": "Thu Mar 17 2022 07:37:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647502650809
+    "date": "Sat Mar 19 2022 09:38:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647682701329
   },
   "documents": [
-    {
-      "title": "Sen noci svatojánské",
-      "file": "sen_noci_svatojanske_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "sen_noci_svatojanske_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Sen noci svatojánské",
       "file": "sen_noci_svatojanske_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "sen_noci_svatojanske_001.html",
-      "next": "sen_noci_svatojanske_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Sen noci svatojánské",
-      "file": "sen_noci_svatojanske_003.html",
-      "words": 13,
-      "chars": 87,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 2,
-      "prev": "sen_noci_svatojanske_002.html",
-      "next": "sen_noci_svatojanske_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Sen noci svatojánské",
-      "file": "sen_noci_svatojanske_004.html",
-      "words": 83,
-      "chars": 551,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "sen_noci_svatojanske_003.html",
+      "order": 0,
+      "prev": null,
       "next": "sen_noci_svatojanske_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 619,
       "ideas": 26,
       "role": "chapter",
-      "order": 4,
-      "prev": "sen_noci_svatojanske_004.html",
+      "order": 1,
+      "prev": "sen_noci_svatojanske_002.html",
       "next": "sen_noci_svatojanske_006.html",
       "toc": [
         {
@@ -129,7 +69,7 @@
       "chars": 14817,
       "ideas": 386,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "sen_noci_svatojanske_005.html",
       "next": "sen_noci_svatojanske_007.html",
       "toc": [
@@ -164,7 +104,7 @@
       "chars": 16293,
       "ideas": 503,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "sen_noci_svatojanske_006.html",
       "next": "sen_noci_svatojanske_008.html",
       "toc": [
@@ -199,7 +139,7 @@
       "chars": 27060,
       "ideas": 714,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "sen_noci_svatojanske_007.html",
       "next": "sen_noci_svatojanske_009.html",
       "toc": [
@@ -234,7 +174,7 @@
       "chars": 11254,
       "ideas": 259,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "sen_noci_svatojanske_008.html",
       "next": "sen_noci_svatojanske_010.html",
       "toc": [
@@ -269,9 +209,9 @@
       "chars": 16069,
       "ideas": 492,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "sen_noci_svatojanske_009.html",
-      "next": "sen_noci_svatojanske_011.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -291,20 +231,20 @@
       ]
     },
     {
-      "title": "Sen noci svatojánské",
-      "file": "sen_noci_svatojanske_011.html",
-      "words": 55,
-      "chars": 373,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 10,
+      "title": "Tiráž • Sen noci svatojánské",
+      "file": "colophon.html",
+      "words": 152,
+      "chars": 1016,
+      "ideas": 26,
+      "role": "colophon",
+      "order": null,
       "prev": "sen_noci_svatojanske_010.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -318,9 +258,9 @@
       "ideas": 2410
     },
     "chapters": {
-      "words": 15039,
-      "chars": 87123,
-      "ideas": 2405
+      "words": 14888,
+      "chars": 86112,
+      "ideas": 2380
     }
   }
 }

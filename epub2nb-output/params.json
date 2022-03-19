@@ -34,50 +34,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "sen_noci_svatojanske_001.md",
             "xhtml": "sen_noci_svatojanske_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sen_noci_svatojanske_002.md",
             "xhtml": "sen_noci_svatojanske_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sen_noci_svatojanske_003.md",
             "xhtml": "sen_noci_svatojanske_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sen_noci_svatojanske_004.md",
             "xhtml": "sen_noci_svatojanske_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sen_noci_svatojanske_005.md",
@@ -88,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Osoby"
           },
           {
             "filename": "sen_noci_svatojanske_006.md",
@@ -99,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jednání první"
           },
           {
             "filename": "sen_noci_svatojanske_007.md",
@@ -110,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jednání druhé"
           },
           {
             "filename": "sen_noci_svatojanske_008.md",
@@ -121,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jednání třetí"
           },
           {
             "filename": "sen_noci_svatojanske_009.md",
@@ -132,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jednání čtvrté"
           },
           {
             "filename": "sen_noci_svatojanske_010.md",
@@ -143,18 +158,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jednání páté"
           },
           {
             "filename": "sen_noci_svatojanske_011.md",
             "xhtml": "sen_noci_svatojanske_011.xhtml",
             "id": 10,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -167,7 +185,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "William Shakespeare",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-17T07:36:27.159Z"
+      "modified": "2022-01-24T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -317,6 +335,6 @@
       "user": "books-are-next",
       "repo": "sen-noci-svatojanske"
     },
-    "generatedAt": 1647502587777
+    "generatedAt": 1647682642965
   }
 }

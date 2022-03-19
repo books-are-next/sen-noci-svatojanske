@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-8bc8a11';
+const CACHE = 'cache-14caea7';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./sen_noci_svatojanske_001.html","./sen_noci_svatojanske_002.html","./sen_noci_svatojanske_003.html","./sen_noci_svatojanske_004.html","./sen_noci_svatojanske_005.html","./sen_noci_svatojanske_006.html","./sen_noci_svatojanske_008.html","./sen_noci_svatojanske_009.html","./sen_noci_svatojanske_010.html","./sen_noci_svatojanske_007.html","./sen_noci_svatojanske_011.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/SpaceGroteskVF.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_sen_noci_svatojanske2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./sen_noci_svatojanske_002.html","./sen_noci_svatojanske_005.html","./sen_noci_svatojanske_006.html","./sen_noci_svatojanske_007.html","./sen_noci_svatojanske_008.html","./sen_noci_svatojanske_009.html","./sen_noci_svatojanske_010.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_sen_noci_svatojanske2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
