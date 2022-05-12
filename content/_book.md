@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - sen_noci_svatojanske_002.html
+  - promo.html
   - sen_noci_svatojanske_005.html
   - sen_noci_svatojanske_006.html
   - sen_noci_svatojanske_007.html
