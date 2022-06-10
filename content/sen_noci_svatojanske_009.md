@@ -1,7 +1,9 @@
 ---
 title: JEDNÁNÍ ČTVRTÉ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 ## 1\. scéna
 
@@ -370,3 +372,5 @@ Povídej, zlatý Klubko.
 Ani slova ze mne nedostanete. Vše, co vám řeknu, jest, že je vévoda už po obědě. Seberte své náčiní; dobré provázky na vousy; nové tkanice na boty a hned se sejděte u paláce. Každý si ještě prohledni svou úlohu, neboť zkrátka a zdlouha naše hra byla vybrána. Každým způsobem ať má Thisbe čisté prádlo; a ten, kdo hraje lva, ať si neořeže nehty, neboť ty musí čouhat ven jako drápy lví. A, milí, drazí herci, nejezte cibule ani česneku, neboť náš dech musí být líbezný, a já nepochybuji, že všichni řeknou, že to byla líbezná komedie. Již ani muk. – Pryč! – Honem! – Pryč!
 
 _Odejdou._
+
+</section>

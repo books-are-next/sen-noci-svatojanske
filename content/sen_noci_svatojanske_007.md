@@ -1,7 +1,9 @@
 ---
 title: JEDNÁNÍ DRUHÉ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 ## 1\. scéna
 
@@ -592,3 +594,5 @@ Mluv! – Skoro omdlévám, jak vše tu straší.
 Ne? – Tedy blízko po tobě ni sled. –  
 Nuž tebe, nebo smrť si najdu hned.  
 _(Odejde.)_
+
+</section>

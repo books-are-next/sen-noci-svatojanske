@@ -1,7 +1,9 @@
 ---
 title: JEDNÁNÍ TŘETÍ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 ## 1\. scéna
 
@@ -969,3 +971,5 @@ _(Ulehne a usne.)_
       zas hoch svou najde dívčinu  
       a všecko bude hráti.  
 _(Odejde.)_
+
+</section>

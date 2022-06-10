@@ -1,7 +1,9 @@
 ---
 title: JEDNÁNÍ PÁTÉ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 ## 1\. scéna
 
@@ -681,3 +683,5 @@ jinak sám ať lhářem jsem.
 Chcete-li však zatleskati,  
      Šotek vám to vděčně splatí.  
 _(Odejde.)_
+
+</section>
