@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sen-noci-svatojanske-e0ce7e1",
-  "revision": "e0ce7e1",
+  "identifier": "shakespeare-sen-noci-svatojanske-123a3b7",
+  "revision": "123a3b7",
   "readingOrder": [
     "promo.html",
     "sen_noci_svatojanske_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:40:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352007487
+    "date": "Fri Jun 10 2022 17:55:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883740792
   },
   "documents": [
     {
@@ -236,9 +236,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 125,
-      "chars": 819,
-      "ideas": 19,
+      "words": 78,
+      "chars": 532,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "sen_noci_svatojanske_010.html",
@@ -256,9 +256,9 @@
   ],
   "totals": {
     "all": {
-      "words": 15020,
-      "chars": 86981,
-      "ideas": 2403
+      "words": 14973,
+      "chars": 86694,
+      "ideas": 2391
     },
     "chapters": {
       "words": 14888,

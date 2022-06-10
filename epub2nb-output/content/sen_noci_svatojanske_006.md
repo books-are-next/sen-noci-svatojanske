@@ -1,7 +1,9 @@
 ---
 title: JEDNÁNÍ PRVNÍ
-contentType: prose
+contentType: drama
 ---
+
+<section>
 
 ## 1\. scéna
 
@@ -534,3 +536,5 @@ Na shledanou u dubu vévodského.
 Ujednáno; – držte se, nebo hoďte řemeslem.
 
 _Odejdou._
+
+</section>
