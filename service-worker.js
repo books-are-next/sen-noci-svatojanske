@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-123a3b7';
+const CACHE = 'cache-210f5eb';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./sen_noci_svatojanske_005.html","./sen_noci_svatojanske_006.html","./sen_noci_svatojanske_007.html","./sen_noci_svatojanske_008.html","./sen_noci_svatojanske_009.html","./sen_noci_svatojanske_010.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_sen_noci_svatojanske2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./manifest.json","./promo.html","./sen_noci_svatojanske_005.html","./sen_noci_svatojanske_006.html","./sen_noci_svatojanske_007.html","./index.html","./sen_noci_svatojanske_008.html","./sen_noci_svatojanske_009.html","./sen_noci_svatojanske_010.html","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_sen_noci_svatojanske2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
