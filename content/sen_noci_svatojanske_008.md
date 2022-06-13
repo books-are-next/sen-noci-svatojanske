@@ -120,7 +120,7 @@ snad hercem také, uvidím-li proč.
 
 **KDOULIČKA****:**Kvítek; kvítek!
 
-**KLUBKO****:**                             – kvítek voní sladce,  
+**KLUBKO****:**            – kvítek voní sladce,  
 tak, Thisbe nejdražší, tvůj voní dech. –  
 Však slyš! – To hlas! Ty počkej tady krátce  
 a já zas přijdu, co by bičem šleh.  
@@ -194,20 +194,20 @@ Pomoz ti pán bůh, Klubko, pomoz ti pán bůh! – Ty jsi zaklet! _(Odejde.)_
 
 Prohlížím to jejich lotrovství: chtějí ze mne udělat osla, chtějí mne postrašit – kdyby jen mohli. Ale já se odtud nehnu, ať si dělají, co dělají. Budu si chodit nahoru a dolů a zazpívám si, aby to slyšeli, že nemám strachu. _(Zpívá.)_
 
-                    Ten kos, ó to je černý pták,  
-                         jen zobáček má zlatý,  
-                    a drozd, jenž zpívá k srdci tak,  
-                         a střízlík malinkatý –
+            Ten kos, ó to je černý pták,  
+            jen zobáček má zlatý,  
+            a drozd, jenž zpívá k srdci tak,  
+            a střízlík malinkatý –
 
 **TITANIE** _(procitnouc)_:
 
 Co za anděla mne tu probouzí na lůžku květnatém? –
 
 **KLUBKO** _(zpívá)_:  
-                    a skřivánek a pěnkava  
-                         a vrabčák s kukavicí,  
-                    již mnohý manžel slýchává  
-                         a „lžeš“ jí nesmí říci; –
+            a skřivánek a pěnkava  
+            a vrabčák s kukavicí,  
+            již mnohý manžel slýchává  
+            a „lžeš“ jí nesmí říci; –
 
 – neboť, na mou věru, kdožpak by si lámal hlavu pro takového pitomého ptáka a říkal kukavici, že lže, třeba si kukala až do skonání? – 
 
@@ -247,11 +247,11 @@ _Vystoupí PAVUČINKA, HRACHOVÝ KVĚT, HOŘČIČNÉ SEMÍNKO a MOLÍK._
 
 **1\. ELF****:**Hotov.
 
-**2\. ELF****:**               Já též.
+**2\. ELF****:**            Já též.
 
-**3\. ELF****:**                             A já.
+**3\. ELF****:**            A já.
 
-**4\. ELF****:**                                        Kam jíti máme?
+**4\. ELF****:**            Kam jíti máme?
 
 **TITANIE****:**Zde k tomu pánu úslužně se mějte,  
 kam půjde, před ním tančete a hrejte  
@@ -324,7 +324,7 @@ jejž nezměrně teď musí milovat.
 _Vystoupí PUK._
 
 Zde posel můj. –  
-                                Jak je, ty třeštile?  
+            Jak je, ty třeštile?  
 Ký noční hluk to straší po boru?
 
 **PUK****:**Má kněžna hoří láskou k netvoru.  
@@ -414,7 +414,7 @@ jak jazyk tvůj, ty hade, nezabije!
 mou ruku netřísní Lysandra krev;  
 a mrtev není, pokud vím.
 
-**HERMIE****:**                                             Je zdráv?  
+**HERMIE****:**            Je zdráv?  
 Mluv, prosím tě, mne pochybností zbav!
 
 **DEMETRIUS****:**A kdybych moh, co za odměnu mám?
@@ -543,7 +543,7 @@ Mé srdce u ní bylo jenom hostem,
 teď k Heleně šlo domů, za svým skvostem,  
 kde zůstane.
 
-**LYSANDER****:**                     To nevěř, Heleno.
+**LYSANDER****:**            To nevěř, Heleno.
 
 **DEMETRIUS****:**Mou věrnost nezlehčuj, sic souzeno  
 ti bude ještě draze pykat za to.  
@@ -644,7 +644,7 @@ má duše, spanilá ty Heleno!
 
 **HELENA****:**Ó výborně!
 
-**HERMIE****:**                 Tak netup ji, můj milý.
+**HERMIE****:**            Tak netup ji, můj milý.
 
 **DEMETRIUS****:**Co ona nevyprosí, vynutím!
 
@@ -662,11 +662,11 @@ jež za tebe dám rád, bych dokázal,
 
 **DEMETRIUS****:**Jen pojď!
 
-**HERMIE****:**              Lysandre, kam to všechno vede?
+**HERMIE****:**            Lysandre, kam to všechno vede?
 
 **LYSANDER****:**Pryč, mouřenínko!
 
-**DEMETRIUS****:**                                      Jen se neboj nic:  
+**DEMETRIUS****:**            Jen se neboj nic:  
 on dělá, jak by utrhnout se chtěl,  
 jak chtěl by za mnou jít – však nepůjde:  
 Ó jdi mi, jdi, ty krotký mužíku!
@@ -682,7 +682,7 @@ Pryč, hnusný léku, bídný letkvare.
 
 **HERMIE****:**To není žert?
 
-**HELENA****:**                            Ba jeho žert i tvůj.
+**HELENA****:**            Ba jeho žert i tvůj.
 
 **LYSANDER****:**Demetrie, já v slovu stojím ti.
 
@@ -703,7 +703,7 @@ noc nepřešla a tys mne opustil;
 mne opustil – ó suďtež bohové! –  
 že doopravdy?
 
-**LYSANDER****:**                                 Ano, jak jsem živ,  
+**LYSANDER****:**            Ano, jak jsem živ,  
 a nepřeju si tebe spatřit víc.  
 Nech ptaní, pochybnosti, naděje;  
 buď jista, nic že pravdou není víc;  
@@ -740,7 +740,7 @@ a nedejte mne bít. – Snad myslíte,
 když o něco jest menší, než jsem já,  
 že postavím se jí.
 
-**HERMIE****:**                       Zas menší! Slyšte!
+**HERMIE****:**            Zas menší! Slyšte!
 
 **HELENA****:**Má Hermie, tak nebuď na mne zlá!  
 Já vždy tě ráda měla, Hermie,  
@@ -763,7 +763,7 @@ jak dětinská a pošetilá jsem.
 
 **HERMIE****:**Jak, u Lysandra?
 
-**HELENA****:**                                    U Demetria.
+**HELENA****:**            U Demetria.
 
 **LYSANDER****:**Strach neměj, ona tobě neublíží.
 
@@ -777,7 +777,7 @@ i ač tak maličká, je divoká.
 Vy strpíte to, že tak tupí mne?  
 K ní přec mne pusťte!
 
-**LYSANDER****:**                                             Vari, tiplice!  
+**LYSANDER****:**            Vari, tiplice!  
 ty krsku po rdesnovém kořínku,  
 ty korálku, ty jeden žalude.
 
@@ -788,7 +788,7 @@ k ní nestav se, neb máš-li v úmyslu
 jí sebeméně lásky projevit,  
 věř, pykat budeš.
 
-**LYSANDER****:**                               Teď mne nedrží;  
+**LYSANDER****:**            Teď mne nedrží;  
 pojď za mnou, jsi-li muž, a zkus to hned,  
 kdo z nás má větší právo k Heleně.
 
@@ -799,7 +799,7 @@ _Odejdou LYSANDER a DEMETRIUS._
 **HERMIE****:**To vše jest vaše dílo, panenko,  
 jen zůstaňte.
 
-**HELENA****:**                      Já nevěřím vám dosti,  
+**HELENA****:**            Já nevěřím vám dosti,  
 dél nechci být v té kleté společnosti;  
 vy na rvačku jste obratnějších dlaní,  
 však já mám delší nohy k utíkání.  
@@ -894,7 +894,7 @@ ten zhanbí se, kdo na tě tasí meč.
 
 **DEMETRIUS****:**Tys tam?
 
-**PUK****:**               Pojď za hlasem, na mužnou seč.
+**PUK****:**            Pojď za hlasem, na mužnou seč.
 
 _Odejdou. Vrátí se LYSANDER._
 
@@ -904,7 +904,7 @@ Máš lehčí paty, zlotřilý ty brachu;
 jdu rychle dost, však rychleji jsi v prachu. –  
 Tmou klopýtám a nikde cesty není,  
 zde oddechnu si.  
-_(Ulehne.)_                            – Přijď už, světlo denní!  
+_(Ulehne.)_            – Přijď už, světlo denní!  
 Neb jak jen šedý úsvit padne v bor,  
 já ztrestám Demetra za jeho vzdor.  
 _(Usne.)_
@@ -918,7 +918,7 @@ _Vrátí se PUK a DEMETRIUS._
 a přijíti mi na oči se střežíš.  
 Kdes teď?
 
-**PUK****:**               Aj tady jsem; tak přece slyš!
+**PUK****:**            Aj tady jsem; tak přece slyš!
 
 **DEMETRIUS****:**Ten výsměch svůj mi draze zaplatíš,  
 jen až se denní úsvit opět vrátí.  

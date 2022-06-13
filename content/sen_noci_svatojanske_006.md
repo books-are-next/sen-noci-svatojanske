@@ -87,12 +87,12 @@ Demetrius jest čacký, vzácný muž.
 
 **HERMIE****:**Tak jest Lysander.
 
-**THESEUS****:**                                              Ano, v sobě jest;  
+**THESEUS****:**            Ano, v sobě jest;  
 leč v této věci, otce vašeho  
 že nemá souhlasu, ten druhý vám  
 být musí vzácnější.
 
-**HERMIE****:**                                 Kéž otec můj  
+**HERMIE****:**            Kéž otec můj  
 se jenom díval mýma očima!
 
 **THESEUS****:**Spíš oči vaše jeho soudem hleďte.
@@ -200,17 +200,17 @@ neb doslech z povídek a dějeprav,
 běh věrné lásky nikdy nespěl hladce:  
 buď krví byla rozdílná –
 
-**HERMIE****:**                                               Ó muka!  
+**HERMIE****:**            Ó muka!  
 když příliš vznesena na prostý rod.
 
 **LYSANDER****:**Neb na věk špatně roubena –
 
-**HERMIE****:**                                                             Ó hanba!  
+**HERMIE****:**            Ó hanba!  
 když příliš stará k sňatku s mladostí.
 
 **LYSANDER****:**Neb vyhlédli ji příbuzní –
 
-**HERMIE****:**                                                     Ó peklo!  
+**HERMIE****:**            Ó peklo!  
 si volit lásku zrakem jiného.
 
 **LYSANDER****:**Aneb když byla volby vzájemnost,  

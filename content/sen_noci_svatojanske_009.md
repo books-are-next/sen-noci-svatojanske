@@ -123,7 +123,7 @@ Má královno, již procitni mi ze sna. –
 
 **OBERON****:**Zde spí tvůj miláček.
 
-**TITANIE****:**                                        Jak se to dálo?  
+**TITANIE****:**            Jak se to dálo?  
 Ó jak mým očím hnusí se ta tvář!
 
 **OBERON****:**Již ticho teď. – Tu hlavu sejmi, Puku. –  
@@ -208,7 +208,7 @@ co Hermie se měla rozhodnout?
 
 **EGEUS****:**Tak jest, můj kníže.
 
-**THESEUS****:**                                         Jděte, kažte lovcům,  
+**THESEUS****:**            Jděte, kažte lovcům,  
 by lesními je rohy vzbudili.
 
 _Lesní rohy a pokřik za scénou. – DEMETRIUS, LYSANDER, HERMIE a HELENA probudí se a vzchopí se._
@@ -219,7 +219,7 @@ ti ptáci teprv teď se párkovat?
 
 **LYSANDER****:**Můj kníže, odpusťte!
 
-**THESEUS****:**                                       Jen vstaňte, všichni. –  
+**THESEUS****:**            Jen vstaňte, všichni. –  
 Vy dva, jak vím, jste v lásce sokové;  
 jak přišla tato vzácná svornost na svět,  
 že záští, žárlivosti vzdáleno,  
@@ -289,10 +289,10 @@ jak drahokam, jenž mým jest a zas není.
 Či vévoda byl zde a poručil,  
 by šli jsme za ním?
 
-**HERMIE****:**                                Ano, on tu byl;  
+**HERMIE****:**            Ano, on tu byl;  
 můj otec také.
 
-**HELENA****:**                          Též Hippolyta.
+**HELENA****:**            Též Hippolyta.
 
 **LYSANDER****:**A kázal nám jít za ním do chrámu.
 
