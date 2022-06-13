@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sen-noci-svatojanske-210f5eb",
-  "revision": "210f5eb",
+  "identifier": "shakespeare-sen-noci-svatojanske-c89f413",
+  "revision": "c89f413",
   "readingOrder": [
     "promo.html",
     "sen_noci_svatojanske_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:10:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949442396
+    "date": "Mon Jun 13 2022 21:57:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157478708
   },
   "documents": [
     {
@@ -69,7 +69,7 @@
       "title": "JEDNÁNÍ PRVNÍ",
       "file": "sen_noci_svatojanske_006.html",
       "words": 2484,
-      "chars": 14817,
+      "chars": 14637,
       "ideas": 386,
       "role": "chapter",
       "order": 2,
@@ -104,7 +104,7 @@
       "title": "JEDNÁNÍ DRUHÉ",
       "file": "sen_noci_svatojanske_007.html",
       "words": 2973,
-      "chars": 16293,
+      "chars": 16218,
       "ideas": 503,
       "role": "chapter",
       "order": 3,
@@ -139,7 +139,7 @@
       "title": "JEDNÁNÍ TŘETÍ",
       "file": "sen_noci_svatojanske_008.html",
       "words": 4685,
-      "chars": 27060,
+      "chars": 26764,
       "ideas": 714,
       "role": "chapter",
       "order": 4,
@@ -174,7 +174,7 @@
       "title": "JEDNÁNÍ ČTVRTÉ",
       "file": "sen_noci_svatojanske_009.html",
       "words": 1913,
-      "chars": 11254,
+      "chars": 11136,
       "ideas": 259,
       "role": "chapter",
       "order": 5,
@@ -209,7 +209,7 @@
       "title": "JEDNÁNÍ PÁTÉ",
       "file": "sen_noci_svatojanske_010.html",
       "words": 2745,
-      "chars": 16069,
+      "chars": 15985,
       "ideas": 492,
       "role": "chapter",
       "order": 6,
@@ -236,9 +236,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 78,
-      "chars": 532,
-      "ideas": 7,
+      "words": 120,
+      "chars": 769,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "sen_noci_svatojanske_010.html",
@@ -256,13 +256,13 @@
   ],
   "totals": {
     "all": {
-      "words": 14973,
-      "chars": 86694,
-      "ideas": 2391
+      "words": 15015,
+      "chars": 86178,
+      "ideas": 2402
     },
     "chapters": {
       "words": 14888,
-      "chars": 86112,
+      "chars": 85359,
       "ideas": 2380
     }
   }

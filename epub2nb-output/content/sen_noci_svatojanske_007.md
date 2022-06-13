@@ -59,7 +59,7 @@ Však těm, kdož zvou tě Šotek, milý Puk,
 dáš zdar a sám jim práci bereš z ruk:  
 zdaž ty to nejsi?
 
-**PUK****:**                              Pravda, příteli,  
+**PUK****:**            Pravda, příteli,  
 já jsem ten noční tulák veselý.  
 Můj Oberona rozesmává šprým,  
 když krmeného hřebce ošálím  
@@ -209,7 +209,7 @@ by poslechly tu hudbu Sireny?
 
 **PUK****:**Já pamatuji se.
 
-**OBERON****:**                                V ten samý čas  
+**OBERON****:**            V ten samý čas  
 já viděl (tys to vidět nemohl),  
 jak letěl mezi chladným měsícem  
 a zemí Cupid, celý ve zbroji:  
@@ -238,7 +238,7 @@ než leviatan míli uplave.
 pás kolem země.  
 _(Odejde.)_
 
-**OBERON****:**                           Květ když budu mít,  
+**OBERON****:**            Květ když budu mít,  
 Titanie až usne, dočekám  
 a šťávu nakapu jí na oči.  
 Co prvně spatří, až se probudí,  
@@ -343,7 +343,7 @@ Máš květinu? Buď vítán, toulale!
 
 **PUK****:**Mám, tady jest.
 
-**OBERON****:**                                  Nuž, prosím, dej mi ji.  
+**OBERON****:**            Nuž, prosím, dej mi ji.  
 Znám svah, kde douškou mateří to voní  
 a petrklíče k fialkám se kloní,  
 kde kozí list se klene v bujné loubí,  

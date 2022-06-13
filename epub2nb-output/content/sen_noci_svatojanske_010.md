@@ -67,7 +67,7 @@ ta muka jedné trapné hodiny?
 Kde jest Philostrates?
 
 **PHILOSTRATES****:  
-**                                   Zde, mocný kníže.
+**            Zde, mocný kníže.
 
 **THESEUS****:**Rci, jakou na večer máš kratochvíli?  
 Co za hru? Jakou hudbu? – Kterakž nám  
@@ -109,7 +109,7 @@ smích nezkroceně hlučný neprolil.
 
 **THESEUS****:**Kdo hraje?
 
-**PHILOSTRATES****:**                    Lidé rukou mozolných,  
+**PHILOSTRATES****:**            Lidé rukou mozolných,  
 již lopotí se tady v Athénách  
 a nikdy duší nepracovali,  
 a teď své necvičené paměti  
@@ -117,7 +117,7 @@ si trýznili hrou k sňatku vašemu.
 
 **THESEUS****:**Nuž chcem to poslechnout.
 
-**PHILOSTRATES****:**                                          Ne, kníže můj,  
+**PHILOSTRATES****:**            Ne, kníže můj,  
 to není pro vás; já to slyšel celé  
 a nic to není, pranicoucí nic,  
 až na to snad, že by vás bavila  
@@ -136,7 +136,7 @@ _Odejde PHILOSTRATES._
 jež přetížena, aniž oddanost,  
 když v službě hyne.
 
-**THESEUS****:**                                   Ne, má milená,  
+**THESEUS****:**            Ne, má milená,  
 nic takového tady nespatříš.
 
 **HIPPOLYTA****:**Vždyť povídá, že nesvedou s tím nic.
