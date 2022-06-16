@@ -9,7 +9,7 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-17T07:22:07.453Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "drama"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -334,6 +334,6 @@
       "user": "books-are-next",
       "repo": "sen-noci-svatojanske"
     },
-    "generatedAt": 1655271694007
+    "generatedAt": 1655380977607
   }
 }

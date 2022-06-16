@@ -12,7 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-17T07:22:07.453Z'
   publisherShort: mkp
-  edition: beletrie
+  edition: drama
 readingOrder:
   - promo.html
   - sen_noci_svatojanske_005.html

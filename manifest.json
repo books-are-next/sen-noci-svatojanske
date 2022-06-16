@@ -5,11 +5,11 @@
   "title": "Sen noci svatojánské",
   "author": "William Shakespeare",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sen-noci-svatojanske-8554145",
-  "revision": "8554145",
+  "identifier": "shakespeare-sen-noci-svatojanske-37fd003",
+  "revision": "37fd003",
   "readingOrder": [
     "promo.html",
     "sen_noci_svatojanske_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:56:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272590588
+    "date": "Thu Jun 16 2022 12:04:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655381071596
   },
   "documents": [
     {
@@ -257,7 +257,7 @@
   "totals": {
     "all": {
       "words": 15029,
-      "chars": 86285,
+      "chars": 86282,
       "ideas": 2402
     },
     "chapters": {
