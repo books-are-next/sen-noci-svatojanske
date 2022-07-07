@@ -64,7 +64,7 @@
             "filename": "sen_noci_svatojanske_003.md",
             "xhtml": "sen_noci_svatojanske_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "sen_noci_svatojanske_004.md",
             "xhtml": "sen_noci_svatojanske_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -166,7 +166,7 @@
             "filename": "sen_noci_svatojanske_011.md",
             "xhtml": "sen_noci_svatojanske_011.xhtml",
             "id": 10,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -334,6 +334,6 @@
       "user": "books-are-next",
       "repo": "sen-noci-svatojanske"
     },
-    "generatedAt": 1655979611876
+    "generatedAt": 1657182430167
   }
 }

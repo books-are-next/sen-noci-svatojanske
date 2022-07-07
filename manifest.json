@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sen-noci-svatojanske-a019d15",
-  "revision": "a019d15",
+  "identifier": "shakespeare-sen-noci-svatojanske-5d47eb7",
+  "revision": "5d47eb7",
   "readingOrder": [
     "promo.html",
     "sen_noci_svatojanske_005.html",
@@ -18,11 +18,11 @@
     "sen_noci_svatojanske_008.html",
     "sen_noci_svatojanske_009.html",
     "sen_noci_svatojanske_010.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:25:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979955484
+    "date": "Thu Jul 07 2022 08:38:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183131975
   },
   "documents": [
     {
@@ -214,7 +214,7 @@
       "role": "chapter",
       "order": 6,
       "prev": "sen_noci_svatojanske_009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -235,11 +235,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 134,
-      "chars": 876,
+      "chars": 875,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "sen_noci_svatojanske_010.html",
       "next": null,
@@ -257,7 +257,7 @@
   "totals": {
     "all": {
       "words": 15029,
-      "chars": 86282,
+      "chars": 86281,
       "ideas": 2402
     },
     "chapters": {
