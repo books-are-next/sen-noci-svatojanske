@@ -21,7 +21,7 @@ readingOrder:
   - sen_noci_svatojanske_008.html
   - sen_noci_svatojanske_009.html
   - sen_noci_svatojanske_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
