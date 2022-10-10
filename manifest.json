@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sen-noci-svatojanske-eb21747",
-  "revision": "eb21747",
+  "identifier": "shakespeare-sen-noci-svatojanske-0af375e",
+  "revision": "0af375e",
   "readingOrder": [
     "promo.html",
     "sen_noci_svatojanske_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:59:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151172239
+    "date": "Mon Oct 10 2022 15:51:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417116813
   },
   "documents": [
     {
@@ -237,7 +237,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 131,
-      "chars": 876,
+      "chars": 877,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -257,7 +257,7 @@
   "totals": {
     "all": {
       "words": 15026,
-      "chars": 86282,
+      "chars": 86283,
       "ideas": 2399
     },
     "chapters": {
